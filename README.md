@@ -9,9 +9,10 @@ Evaluar si el tamaño territorial influye en la magnitud demográfica y obtener 
 ## Fuente de datos
 https://restcountries.com/
 
-## Contenido
-- Preentrega_Data_Science_II_Maggiore.ipynb
+##Contenido
+- Preentrega_Data_Science_II_Maggiore.ipynb (Análisis exploratorio)
+- Entrega_Final_DS2_Maggiore.ipynb (Machine Learning - Clasificación)
 - countries_raw.csv
 
-## Estado
-Primera instancia - EDA y obtención de insights.
+##Estado
+Proyecto completo. Primera instancia: EDA. Entrega final: Modelos de Machine Learning.
